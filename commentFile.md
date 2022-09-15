@@ -1,2 +1,3 @@
 # From Mrs. Mendoza
 Accepted and Entered your invitation....
+**Please use proper naming format for your repository**
