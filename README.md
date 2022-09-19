@@ -21,5 +21,5 @@ Here, you can find an introduction on the gameplay, the types of notes you will 
 # Subpage 4 (Minecraft)
 Here, you can find out where and how to download the game, tips and tricks on how to beat the game.
 
-# Prijext Proposal:
+# Project Proposal:
 [K-Banzon, Rufino - 1stQtrProposal.pdf](https://github.com/eggodoggo/eggodoggo/files/9600104/K-Banzon.Rufino.-.1stQtrProposal.pdf)
