@@ -9,7 +9,7 @@ GamesDB is made to help you decide which game to play next!
 This is basically the hub! Here, you can find a short but concise description about the contents of the website, and also the page where you can access the other 4 subpages! where you can find a short description about the website, and the page where you can access the other 4 subpages.
 
 # Subpage 1 (Valorant)
-Lorem
+Here, you can find out how to install the game itself. You will also find out which characters are the bestto play as a beginner and general tips and tricks to improve!
 
 # Subpage 2 (Roblox)
 Here, you can find out where and how you can download the game itself, and you can also find what games are recommended to play! 
